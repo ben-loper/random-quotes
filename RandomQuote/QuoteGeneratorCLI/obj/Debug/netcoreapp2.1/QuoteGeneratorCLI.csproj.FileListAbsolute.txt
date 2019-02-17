@@ -1,0 +1,14 @@
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\bin\Debug\netcoreapp2.1\QuoteGeneratorCLI.deps.json
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\bin\Debug\netcoreapp2.1\QuoteGeneratorCLI.dll
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\bin\Debug\netcoreapp2.1\QuoteGeneratorCLI.pdb
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\bin\Debug\netcoreapp2.1\RandomQuote.dll
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\bin\Debug\netcoreapp2.1\RandomQuote.pdb
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\obj\Debug\netcoreapp2.1\QuoteGeneratorCLI.csprojAssemblyReference.cache
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\obj\Debug\netcoreapp2.1\QuoteGeneratorCLI.csproj.CoreCompileInputs.cache
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\obj\Debug\netcoreapp2.1\QuoteGeneratorCLI.AssemblyInfoInputs.cache
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\obj\Debug\netcoreapp2.1\QuoteGeneratorCLI.AssemblyInfo.cs
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\obj\Debug\netcoreapp2.1\QuoteGeneratorCLI.csproj.CopyComplete
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\obj\Debug\netcoreapp2.1\QuoteGeneratorCLI.dll
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\obj\Debug\netcoreapp2.1\QuoteGeneratorCLI.pdb
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\bin\Debug\netcoreapp2.1\QuoteGeneratorCLI.runtimeconfig.json
+C:\workspace\Side Projects\random-quotes\RandomQuote\QuoteGeneratorCLI\bin\Debug\netcoreapp2.1\QuoteGeneratorCLI.runtimeconfig.dev.json

@@ -1,0 +1,9 @@
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\bin\Debug\netcoreapp2.1\RandomQuote.deps.json
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\bin\Debug\netcoreapp2.1\RandomQuote.dll
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\bin\Debug\netcoreapp2.1\RandomQuote.pdb
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\obj\Debug\netcoreapp2.1\RandomQuote.csprojAssemblyReference.cache
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\obj\Debug\netcoreapp2.1\RandomQuote.csproj.CoreCompileInputs.cache
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\obj\Debug\netcoreapp2.1\RandomQuote.AssemblyInfoInputs.cache
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\obj\Debug\netcoreapp2.1\RandomQuote.AssemblyInfo.cs
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\obj\Debug\netcoreapp2.1\RandomQuote.dll
+C:\workspace\Side Projects\random-quotes\RandomQuote\RandomQuote\obj\Debug\netcoreapp2.1\RandomQuote.pdb

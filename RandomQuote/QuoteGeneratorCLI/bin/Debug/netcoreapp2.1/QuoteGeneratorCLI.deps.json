@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "QuoteGeneratorCLI/1.0.0": {
+        "dependencies": {
+          "RandomQuote": "1.0.0"
+        },
+        "runtime": {
+          "QuoteGeneratorCLI.dll": {}
+        }
+      },
+      "RandomQuote/1.0.0": {
+        "runtime": {
+          "RandomQuote.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuoteGeneratorCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RandomQuote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
