@@ -104,11 +104,6 @@ erase stuff that has no purpose, so why try to fill up children's heads
 with such stuff?
 -- Roger Schank, Engines for Education
 
-La tactique, c'est ce que vous faites quand il y a quelque chose �
-faire; la strat�gie, c'est ce que vous faites quand il n'y a rien �
-faire.
--- Xavier Tartacover
-
 The only problems we can really solve in a satisfactory manner are those
 that finally admit a nicely factored solution.
 -- E. W. Dijkstra, The humble programmer
@@ -129,10 +124,6 @@ modest and elegant programming languages, provided that we respect the
 intrinsec limitations of the human mind and approach the task as Very
 Humble Programmers.
 -- E. W. Dijkstra, The humble programmer
-
-Ce n'est que par les relations qu'on entretient entre nos diff�rentes
-connaissances qu'elles nous restent accessibles.
--- Shnuup, sur l'hypertexte (SELFHTML -> Introduction -> Definitions sur l'hypertexte)
 
 We now come to the decisive step of mathematical abstraction: we forget
 about what the symbols stand for. ...[The mathematician] need not be
@@ -619,16 +610,6 @@ you. I, personally, would prefer Lisp to not become mainstream: this
 would necessarily involve a dumbing down.
 -- VladimirSlepnev
 
-Je ne vous impose aucune contrainte, aucune limite. Surprenez-moi,
-�tonnez-moi, d�fiez-moi, d�fiez-vous vous-m�me. Vous avez le choix: vous
-pouvez rester dans l'ombre ou en sortir en �tant parmis les trop rares
-exceptions � avoir r�ussi. L'heure est venue d'aller bien au del� de
-votre potentiel. L'heure est venue maintenant de descendre vraiment en
-vous. L'heure est venue de d�montrer pourquoi vous �tes l'�lite, les
-quelques �lus, les rares lueurs qui offrent � cette compagnie son
-caract�re exceptionnel, sa luminescence.
--- Le PDG de NURV, dans "Anti-trust".
-
 If something isn�t working, you need to look back and figure out what
 got you excited in the first place.
 -- David Gorman (ImThere.com)
@@ -761,10 +742,6 @@ The only constant in the world of hi-tech is change.
 Write it properly first. It's easier to make a correct program fast,
 than to make a fast program correct.
 -- http://www.cpax.org.uk/prg/
-
-J'ai toujours pr�f�r� la folie des passions � la sagesse de
-l'indiff�rence.
--- Anatole France
 
 You can�t get to version 500 if you don�t start with a version 1.
 -- BetterExplained.com
@@ -1218,7 +1195,6 @@ you have to replace the broken part or the car will never run. It�s not
 fun until the code gets back to the baseline again.
 -- Gary Kildall (inventor of CP/M, one of the first OS for the micro).
 
-
 Well, if you talk about programming to a group of programmers who use
 the same language, they can become almost evangelistic about the
 language. They form a tight-knit community, hold to certain beliefs, and
@@ -1339,18 +1315,6 @@ Revolutions come from standing on the shoulders of giants and facing in
 a better direction.
 -- Alan Kay
 
-Ce n�est que par les beaux sentiments qu�on parvient � la fortune !
--- Charles Baudelaire, Conseils aux jeunes litt�rateurs.
-
-La haine est une liqueur pr�cieuse, un poison plus cher que celui des
-Borgia, - car il est fait avec notre sang, notre sant�, notre sommeil,
-et les deux tiers de notre amour! Il faut en �tre avare!
--- Charles Baudelaire, Conseils aux jeunes litt�rateurs.
-
-L�art qui satisfait le besoin le plus imp�rieux sera toujours le plus
-honor�.
--- Charles Baudelaire, Conseils aux jeunes litt�rateurs.
-
 If it looks like a duck, walks like a duck, and quacks like a duck, it's
 a duck.
 -- Official definition of "duck typing"
@@ -1361,10 +1325,6 @@ manipulating the object. In FP, it's the code that's important: you
 define a function which contains code for working with the data, and
 only incidentally define what the data is.
 -- almkgor, on reddit
-
-Des mots simples, quand ils sont bien utilis�s, font faire � des gens
-ordinaires des choses extraordinaires.
--- Khaled TANGAO
 
 It was Edison who said �1% inspiration, 99% perspiration�. That may have
 been true a hundred years ago. These days it's �0.01% inspiration,
@@ -1399,10 +1359,6 @@ Genius is 1% inspiration and 99% perspiration.
 
 I�d rather write programs to write programs than write programs.
 -- Richard Sites
-
-Heureux l'�tudiant qui comme la Rivi�re peut suivre son cours sans
-quitter son lit...
--- Sebastien, sur commentcamarche.net
 
 Side projects are less masturbatory than reading RSS, often more
 useful than MobileMe, more educational than the comments on Reddit,
@@ -1443,19 +1399,6 @@ Before software can be reusable it first has to be usable.
 
 The opposite of love is not hate, it is indifference.
 -- Elie Wiesel
-
-- Gbi de fer
-- Howa!
-- On va en France
-- Non, je vais pas!
-- Pourquoi?
-- Parce ki y a pas agouti l�-bas!
--- Gbi de fer
-
-Ecoute, crois en ton projet... Implique toi � fond... Trouve des aspects
-innovants pour te distinguer des autres. Tu verras que tu te feras
-remarquer tr�s facilement...
--- Khaled Tangao
 
 Perpetual optimism is a force multiplier.
 -- Colin Powell
@@ -1536,17 +1479,6 @@ A witty saying proves nothing
 Sound methodology can empower and liberate the creative mind; it cannot inflame
 or inspire the drudge.
 -- Frederick P. Brooks, No Sliver Bullet.
-
-La connaissance d'un d�faut ne l'enl�ve pas, elle nous torture jusqu'� sa
-correction.
--- Daniel Lovewin (Guillaume Kpotufe)
-
-Je crois au flooding.
--- Karim BAINA (en parlant du dailogue avec les administrations)
-
-Il y a tr�s loin de la vell�it� � la volnt, de la volont� � la r�solution, de la
-r�solution au choix des moyens, du choix ds moyens � lapplication.
--- Jean-Fran�ois Paul de Gondi de Retz
 
 Do not spoil what you have by desiring what you have not; but remember that what
 you now have was once among the things only hoped for.
