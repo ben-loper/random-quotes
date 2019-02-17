@@ -1,4 +1,4 @@
-Don't worry about what anybody else is going to do. The best way to
+ï»¿Don't worry about what anybody else is going to do. The best way to
 predict the future is to invent it.
 -- Alan Kay
 
@@ -104,8 +104,8 @@ erase stuff that has no purpose, so why try to fill up children's heads
 with such stuff?
 -- Roger Schank, Engines for Education
 
-La tactique, c'est ce que vous faites quand il y a quelque chose à
-faire; la stratégie, c'est ce que vous faites quand il n'y a rien à
+La tactique, c'est ce que vous faites quand il y a quelque chose ï¿½
+faire; la stratï¿½gie, c'est ce que vous faites quand il n'y a rien ï¿½
 faire.
 -- Xavier Tartacover
 
@@ -130,7 +130,7 @@ intrinsec limitations of the human mind and approach the task as Very
 Humble Programmers.
 -- E. W. Dijkstra, The humble programmer
 
-Ce n'est que par les relations qu'on entretient entre nos différentes
+Ce n'est que par les relations qu'on entretient entre nos diffï¿½rentes
 connaissances qu'elles nous restent accessibles.
 -- Shnuup, sur l'hypertexte (SELFHTML -> Introduction -> Definitions sur l'hypertexte)
 
@@ -391,11 +391,11 @@ A non negative binary integer value x is a power of 2 iff (x & (x-1)) is
 0 using 2's complement arithmetic.
 -- [fact]
 
-While I’ve always appreciated beautiful code, I share Jonathan’s concern
+While Iï¿½ve always appreciated beautiful code, I share Jonathanï¿½s concern
 about studying it too much. I think studying beauty in music and
 painting has led us to modern classical music and painting that the
-majority of us just don’t get. Beauty can be seen when it emerges, but
-isn’t something to strive for in isolation of a larger context. In the
+majority of us just donï¿½t get. Beauty can be seen when it emerges, but
+isnï¿½t something to strive for in isolation of a larger context. In the
 software world, the larger context would be the utility of the software
 to the end user.
 -- [A comment on a blog]
@@ -476,7 +476,7 @@ patterns, and become a different person than you were before that
 problem.  God has crafted you for success. In the middle of every
 adversity lie your best opportunities. Discover it, build upon it and
 move forward in your journey to live an extraordinary life.  You owe it
-to yourself to live a great life. Don’t let negative thoughts pull you
+to yourself to live a great life. Donï¿½t let negative thoughts pull you
 down. Be grateful and open to learn and grow.
 -- http://secretsofstudying.com/
 
@@ -519,8 +519,8 @@ New eyes have X-ray vision.  [someone that hasn't written it is more
 likely to spot the bug. "someone" can be you after a break]
 -- William S. Annis
 
-So - what are the most important problems in software engineering? I’d
-answer “dealing with complexity”.
+So - what are the most important problems in software engineering? Iï¿½d
+answer ï¿½dealing with complexityï¿½.
 -- Mark Chu-Carroll
 
 So the mere constraint of staying in regular contact with us will push
@@ -578,7 +578,7 @@ Resume writing is just like dating, or applying for a bank loan, in that
 nobody wants you if you're desperate.
 -- Steve Yegge.
 
-Mastering isn’t a survival instinct; it’s an urge to excel. Mastering is
+Mastering isnï¿½t a survival instinct; itï¿½s an urge to excel. Mastering is
 one of the experiences that delineates us from animals. It is striving
 to be more tomorrow than we are today; to perfectly pitch the ball over
 home plate; to craft the perfect sentence in an article; to open the
@@ -588,13 +588,13 @@ masters of our domain, to distinguish ourselves by sheer skill and
 prowess.
 -- Joesgoals.com
 
-It(mastering)’s knowing what you are doing.
+It(mastering)ï¿½s knowing what you are doing.
 -- Joesgoals.com
 
 Well then. How could you possibly live without automated refactoring
 tools? How else could you coordinate the caterpillar-like motions of all
-Java’s identical tiny legs, its thousands of similar parts?
-I’ll tell you how:
+Javaï¿½s identical tiny legs, its thousands of similar parts?
+Iï¿½ll tell you how:
 Ruby is a butterfly.
 -- Stevey, Refactoring Trilogy, Part 1.
 
@@ -620,16 +620,16 @@ would necessarily involve a dumbing down.
 -- VladimirSlepnev
 
 Je ne vous impose aucune contrainte, aucune limite. Surprenez-moi,
-étonnez-moi, défiez-moi, défiez-vous vous-même. Vous avez le choix: vous
-pouvez rester dans l'ombre ou en sortir en étant parmis les trop rares
-exceptions à avoir réussi. L'heure est venue d'aller bien au delà de
+ï¿½tonnez-moi, dï¿½fiez-moi, dï¿½fiez-vous vous-mï¿½me. Vous avez le choix: vous
+pouvez rester dans l'ombre ou en sortir en ï¿½tant parmis les trop rares
+exceptions ï¿½ avoir rï¿½ussi. L'heure est venue d'aller bien au delï¿½ de
 votre potentiel. L'heure est venue maintenant de descendre vraiment en
-vous. L'heure est venue de démontrer pourquoi vous êtes l'élite, les
-quelques élus, les rares lueurs qui offrent à cette compagnie son
-caractère exceptionnel, sa luminescence.
+vous. L'heure est venue de dï¿½montrer pourquoi vous ï¿½tes l'ï¿½lite, les
+quelques ï¿½lus, les rares lueurs qui offrent ï¿½ cette compagnie son
+caractï¿½re exceptionnel, sa luminescence.
 -- Le PDG de NURV, dans "Anti-trust".
 
-If something isn’t working, you need to look back and figure out what
+If something isnï¿½t working, you need to look back and figure out what
 got you excited in the first place.
 -- David Gorman (ImThere.com)
 
@@ -717,7 +717,7 @@ being a master of the obvious is underrated.
 Jim Maloney is right: Work is an overrated activity
 -- Bob Sutton
 
-In theory, there’s no difference between theory and practice. But in
+In theory, thereï¿½s no difference between theory and practice. But in
 practice, there is.
 -- Albert Einstein
 
@@ -762,11 +762,11 @@ Write it properly first. It's easier to make a correct program fast,
 than to make a fast program correct.
 -- http://www.cpax.org.uk/prg/
 
-J'ai toujours préféré la folie des passions à la sagesse de
-l'indifférence.
+J'ai toujours prï¿½fï¿½rï¿½ la folie des passions ï¿½ la sagesse de
+l'indiffï¿½rence.
 -- Anatole France
 
-You can’t get to version 500 if you don’t start with a version 1.
+You canï¿½t get to version 500 if you donï¿½t start with a version 1.
 -- BetterExplained.com
 
 The wonderful and frustrating thing about understanding yourself is that
@@ -782,9 +782,9 @@ that it is true and try to find out what it could be true of.
 -- George Miller
 
 A journey of a thousand miles must begin with a single step.
--- Lao­Tzu
+-- Laoï¿½Tzu
 
-C’s great for what it’s great for.
+Cï¿½s great for what itï¿½s great for.
 -- Ben Hoyts (micropledge)
 
 There is one meaning [for static in C]: a global variable that is
@@ -820,7 +820,7 @@ No art, however minor, demands less than total dedication if you want to
 excel in it.
 -- Alberti
 
-The minute you put the blame on someone else you’ve switch things from
+The minute you put the blame on someone else youï¿½ve switch things from
 being a problem you can control to a problem outside of your control.
 -- engtech (internetducttape.com)
 
@@ -861,14 +861,14 @@ the world?
 4 - Ours is less and less a free society.
 -- Lawrence Lessig, Free Culture.
 
-Good work is no done by ‘humble’ men.
+Good work is no done by ï¿½humbleï¿½ men.
 -- H. Hardy, A mathematician's apology.
 
 Simplicity and pragmatism beat complexity and theory any day.
 -- Dennis (blog comment)
 
 The proof is by reductio ad absurdum, and reductio ad absurdum, which
-Euclid loved so much, is one of a mathematician’s finest weapons. It is
+Euclid loved so much, is one of a mathematicianï¿½s finest weapons. It is
 a far finer gambit than any chess gambit: a chess player may offer the
 sacrifice of a pawn or even a piece, but a mathematician offers the
 game.
@@ -965,8 +965,8 @@ Whatever is worth doing at all, is worth doing well.
 -- Earl of Chesterfield
 
 Rules of Optimization:
-Rule 1: Don’t do it.
-Rule 2 (for experts only): Don’t do it yet.
+Rule 1: Donï¿½t do it.
+Rule 2 (for experts only): Donï¿½t do it yet.
 -- M.A. Jackson
 
 More computing sins are committed in the name of efficiency (without
@@ -981,13 +981,13 @@ premature optimization is the root of all evil.
 The best is the enemy of the good.
 -- Voltaire
 
-The job of a leader today is not to create followers. It’s to create
+The job of a leader today is not to create followers. Itï¿½s to create
 more leaders.
 -- Ralph Nader
 
 The president was visiting NASA headquarters and stopped to talk to a
-man who was holding a mop. “And what do you do?” he asked. The man, a
-janitor, replied, “I’m helping to put a man on the moon, sir.”
+man who was holding a mop. ï¿½And what do you do?ï¿½ he asked. The man, a
+janitor, replied, ï¿½Iï¿½m helping to put a man on the moon, sir.ï¿½
 -- The little book of leadership
 
 Only make new mistakes.
@@ -1035,7 +1035,7 @@ semantic level in which one can be absolutely precise.
 Every man prefers belief to the exercise of judgment.
 -- Seneca
 
-It’s hard to grasp abstractions if you don’t understand what they’re
+Itï¿½s hard to grasp abstractions if you donï¿½t understand what theyï¿½re
 abstracting away from.
 -- Nathan Weizenbaum
 
@@ -1069,8 +1069,8 @@ idiot-proof programs, while the Universe is trying to create bigger and
 better idiots.  So far the Universe is winning.
 -- Rich Cook
 
-A hacker on a roll may be able to produce–in a period of a few
-months–something that a small development group (say, 7-8 people) would
+A hacker on a roll may be able to produceï¿½in a period of a few
+monthsï¿½something that a small development group (say, 7-8 people) would
 have a hard time getting together over a year.  IBM used to report that
 certain programmers might be as much as 100 times as productive as other
 workers, or more.
@@ -1115,8 +1115,8 @@ that have had prior exposure to BASIC.  As potential programmers, they
 are mentally mutilated beyond hope of regeneration.
 -- E. W. Dijkstra
 
-One of the main causes of the fall of the Roman Empire was that–lacking
-zero–they had no way to indicate successful termination of their C
+One of the main causes of the fall of the Roman Empire was thatï¿½lacking
+zeroï¿½they had no way to indicate successful termination of their C
 programs.
 -- Robert Firth
 
@@ -1128,12 +1128,12 @@ If Java had true garbage collection, most programs would delete
 themselves upon execution.
 -- Robert Sewell
 
-Software is like sex: It’s better when it’s free.
+Software is like sex: Itï¿½s better when itï¿½s free.
 -- Linus Torvalds
 
-Any code of your own that you haven’t looked at for six or more months
+Any code of your own that you havenï¿½t looked at for six or more months
 might as well have been written by someone else.
--- Eagleson’s Law
+-- Eaglesonï¿½s Law
 
 Good programmers use their brains, but good guidelines save us having to
 think out every case.
@@ -1155,7 +1155,7 @@ violent psychopath who knows where you live.
 Everything that can be invented has been invented.
 -- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899
 
-I think there’s a world market for about 5 computers.
+I think thereï¿½s a world market for about 5 computers.
 -- Thomas J. Watson, Chairman of the Board, IBM, circa 1948
 
 It would appear that we have reached the limits of what it is possible
@@ -1212,9 +1212,9 @@ handle five. In that way the ones you do handle, you handle with more
 ease, more mastery and you create a feeling of strength in reserve.
 -- Pablo Picasso
 
-When you’ve got the code all ripped apart, it’s like a car that’s all
-disassembled. You’ve got all the parts tying all over your garage and
-you have to replace the broken part or the car will never run. It’s not
+When youï¿½ve got the code all ripped apart, itï¿½s like a car thatï¿½s all
+disassembled. Youï¿½ve got all the parts tying all over your garage and
+you have to replace the broken part or the car will never run. Itï¿½s not
 fun until the code gets back to the baseline again.
 -- Gary Kildall (inventor of CP/M, one of the first OS for the micro).
 
@@ -1222,18 +1222,18 @@ fun until the code gets back to the baseline again.
 Well, if you talk about programming to a group of programmers who use
 the same language, they can become almost evangelistic about the
 language. They form a tight-knit community, hold to certain beliefs, and
-follow certain rules in their programming. It’s like a church with a
+follow certain rules in their programming. Itï¿½s like a church with a
 programming language for a Bible.
 -- Gary Kildall (inventor of CP/M, one of the first OS for the micro).
 
-It’s a problem if the design doesn’t let you add features at a later
+Itï¿½s a problem if the design doesnï¿½t let you add features at a later
 date. If you have to redo a program, the hours you spend can cause you
 to lose your competitive edge. A flexible program demonstrates the
 difference between a good designer and someone who is just getting a
 piece of code out.
 -- Gary Kildall (inventor of CP/M, one of the first OS for the micro).
 
-[How friendly will this machine be?] Well, I don’t think it’s a matter
+[How friendly will this machine be?] Well, I donï¿½t think itï¿½s a matter
 of friendliness, because ultimately if the program is going to
 accomplish anything of value, it will probably be relatively complex.
 -- Gary Kildall (inventor of CP/M, one of the first OS for the micro).
@@ -1253,9 +1253,9 @@ little way past them into the impossible.
 Any sufficiently advanced technology is undistinguishable from magic.
 -- Arthur C. Clarke
 
-That is the inevitable human response. We’re reluctant to believe that
+That is the inevitable human response. Weï¿½re reluctant to believe that
 great discoveries are in the air. We want to believe that great
-discoveries are in our heads—and to each party in the multiple the
+discoveries are in our headsï¿½and to each party in the multiple the
 presence of the other party is invariably cause for suspicion.
 -- Malcolm Gladwell, Who says big ideas are rare? 
 
@@ -1286,7 +1286,7 @@ tried it.
 -- Donald Knuth
 
 Wear your best for your execution and stand dignified. Your last
-recourse against randomness is how you act — if you can’t control
+recourse against randomness is how you act ï¿½ if you canï¿½t control
 outcomes, you can control the elegance of your behaviour. You will
 always have the last word.
 -- Nassim Taleb
@@ -1339,17 +1339,17 @@ Revolutions come from standing on the shoulders of giants and facing in
 a better direction.
 -- Alan Kay
 
-Ce n’est que par les beaux sentiments qu’on parvient à la fortune !
--- Charles Baudelaire, Conseils aux jeunes littérateurs.
+Ce nï¿½est que par les beaux sentiments quï¿½on parvient ï¿½ la fortune !
+-- Charles Baudelaire, Conseils aux jeunes littï¿½rateurs.
 
-La haine est une liqueur précieuse, un poison plus cher que celui des
-Borgia, - car il est fait avec notre sang, notre santé, notre sommeil,
-et les deux tiers de notre amour! Il faut en être avare!
--- Charles Baudelaire, Conseils aux jeunes littérateurs.
+La haine est une liqueur prï¿½cieuse, un poison plus cher que celui des
+Borgia, - car il est fait avec notre sang, notre santï¿½, notre sommeil,
+et les deux tiers de notre amour! Il faut en ï¿½tre avare!
+-- Charles Baudelaire, Conseils aux jeunes littï¿½rateurs.
 
-L’art qui satisfait le besoin le plus impérieux sera toujours le plus
-honoré.
--- Charles Baudelaire, Conseils aux jeunes littérateurs.
+Lï¿½art qui satisfait le besoin le plus impï¿½rieux sera toujours le plus
+honorï¿½.
+-- Charles Baudelaire, Conseils aux jeunes littï¿½rateurs.
 
 If it looks like a duck, walks like a duck, and quacks like a duck, it's
 a duck.
@@ -1362,27 +1362,27 @@ define a function which contains code for working with the data, and
 only incidentally define what the data is.
 -- almkgor, on reddit
 
-Des mots simples, quand ils sont bien utilisés, font faire à des gens
+Des mots simples, quand ils sont bien utilisï¿½s, font faire ï¿½ des gens
 ordinaires des choses extraordinaires.
 -- Khaled TANGAO
 
-It was Edison who said ‘1% inspiration, 99% perspiration’. That may have
-been true a hundred years ago. These days it's ‘0.01% inspiration,
-99.99% perspiration’, and the inspiration is the easy part.
+It was Edison who said ï¿½1% inspiration, 99% perspirationï¿½. That may have
+been true a hundred years ago. These days it's ï¿½0.01% inspiration,
+99.99% perspirationï¿½, and the inspiration is the easy part.
 -- Linux Torvalds
 
 The greatest challenge to any thinker is stating the problem in a way
 that will allow a solution.
 -- Bertrand Russell
 
-No matter how much you plan you’re likely to get half wrong anyway. So
-don’t do the ‘paralysis through analysis’ thing. That only slows
+No matter how much you plan youï¿½re likely to get half wrong anyway. So
+donï¿½t do the ï¿½paralysis through analysisï¿½ thing. That only slows
 progress and saps morale.
 -- 37 Signal, Getting real
 
-[Innovation] comes from saying no to 1,000 things to make sure we don’t
-get on the wrong track or try to do too much. We’re always thinking
-about new markets we could enter, but it’s only by saying no that you
+[Innovation] comes from saying no to 1,000 things to make sure we donï¿½t
+get on the wrong track or try to do too much. Weï¿½re always thinking
+about new markets we could enter, but itï¿½s only by saying no that you
 can concentrate on the things that are really important.
 -- Steve Jobs
 
@@ -1397,10 +1397,10 @@ results.
 Genius is 1% inspiration and 99% perspiration.
 -- Thomas Edison
 
-I’d rather write programs to write programs than write programs.
+Iï¿½d rather write programs to write programs than write programs.
 -- Richard Sites
 
-Heureux l'étudiant qui comme la Rivière peut suivre son cours sans
+Heureux l'ï¿½tudiant qui comme la Riviï¿½re peut suivre son cours sans
 quitter son lit...
 -- Sebastien, sur commentcamarche.net
 
@@ -1449,12 +1449,12 @@ The opposite of love is not hate, it is indifference.
 - On va en France
 - Non, je vais pas!
 - Pourquoi?
-- Parce ki y a pas agouti là-bas!
+- Parce ki y a pas agouti lï¿½-bas!
 -- Gbi de fer
 
-Ecoute, crois en ton projet... Implique toi à fond... Trouve des aspects
+Ecoute, crois en ton projet... Implique toi ï¿½ fond... Trouve des aspects
 innovants pour te distinguer des autres. Tu verras que tu te feras
-remarquer très facilement...
+remarquer trï¿½s facilement...
 -- Khaled Tangao
 
 Perpetual optimism is a force multiplier.
@@ -1537,16 +1537,16 @@ Sound methodology can empower and liberate the creative mind; it cannot inflame
 or inspire the drudge.
 -- Frederick P. Brooks, No Sliver Bullet.
 
-La connaissance d'un défaut ne l'enlève pas, elle nous torture jusqu'à sa
+La connaissance d'un dï¿½faut ne l'enlï¿½ve pas, elle nous torture jusqu'ï¿½ sa
 correction.
 -- Daniel Lovewin (Guillaume Kpotufe)
 
 Je crois au flooding.
 -- Karim BAINA (en parlant du dailogue avec les administrations)
 
-Il y a très loin de la velléité à la volnt, de la volonté à la résolution, de la
-résolution au choix des moyens, du choix ds moyens à lapplication.
--- Jean-François Paul de Gondi de Retz
+Il y a trï¿½s loin de la vellï¿½itï¿½ ï¿½ la volnt, de la volontï¿½ ï¿½ la rï¿½solution, de la
+rï¿½solution au choix des moyens, du choix ds moyens ï¿½ lapplication.
+-- Jean-Franï¿½ois Paul de Gondi de Retz
 
 Do not spoil what you have by desiring what you have not; but remember that what
 you now have was once among the things only hoped for.

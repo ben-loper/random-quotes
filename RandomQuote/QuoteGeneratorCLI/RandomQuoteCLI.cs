@@ -64,7 +64,7 @@ namespace QuoteGeneratorCLI
             
         }
 
-        public void DisplayQuoteAndAuthor(Quote quote)
+        private void DisplayQuoteAndAuthor(Quote quote)
         {
             Console.WriteLine(quote.RandomQuote + "\n");
             Console.WriteLine(quote.Author);
