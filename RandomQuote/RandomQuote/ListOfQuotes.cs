@@ -7,14 +7,16 @@ namespace RandomQuote
 {
     public class ListOfQuotes
     {
-        public List<Quote> quotes = new List<Quote>();
+        public List<Quote> Quotes { get; private set; } = new List<Quote>();
+
+        public List<string> Authors { get; private set; } = new List<string>();
 
         private string _filePath = Directory.GetCurrentDirectory() + @"/../../../../RandomQuote/Quotes.txt";
 
         public List<Quote> LoadQuotes()
         {
             ReadQuotesFromFile();
-            return quotes;
+            return Quotes;
         }
 
         private void ReadQuotesFromFile()
@@ -39,12 +41,19 @@ namespace RandomQuote
 
                 QuoteCreator(quote, author);
             }
+
+            Authors.Sort();
         }
 
         private void QuoteCreator(string quote, string author)
         {
             Quote newQuote = new Quote(quote, author);
-            quotes.Add(newQuote);
+            Quotes.Add(newQuote);
+
+            if (!Authors.Contains(author))
+            {
+                Authors.Add(author);
+            }
         }
     }
 }

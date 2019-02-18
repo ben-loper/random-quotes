@@ -27,35 +27,35 @@ namespace QuoteGeneratorCLI
                 Console.Clear();
 
                 Console.WriteLine("1 - Display a random quote");
-                Console.WriteLine("2 - Display all quotes\n");
+                Console.WriteLine("2 - Display all quotes");
+                Console.WriteLine("3 - Display quotes by author\n");
+                Console.WriteLine($"Total number of quotes: {_listOfQuoteCLI.Quotes.Count}\n");
                 Console.Write("Please choose an option from above: ");
 
-                char userDecsion = Console.ReadKey().KeyChar;
+                string userDecision = Console.ReadLine();
 
-                if (userDecsion.ToString() == "1")
+                if (userDecision == "1")
                 {
-                    Console.Clear();
-
-                    int quotesIndex = rdm.Next(_listOfQuoteCLI.quotes.Count);
-
-                    Quote quote = _listOfQuoteCLI.quotes[quotesIndex];
-
-                    DisplayQuoteAndAuthor(quote);
-
-                    Console.ReadKey();
+                    DisplayRandomQuoteAndAuthor();
                 }
-                else if (userDecsion.ToString() == "2")
+                else if (userDecision == "2")
                 {
                     Console.Clear();
 
-                    foreach(Quote quote in _listOfQuoteCLI.quotes)
+                    foreach (Quote quote in _listOfQuoteCLI.Quotes)
                     {
-                        DisplayQuoteAndAuthor(quote);                
+                        DisplayAuthorAndQuote(quote);
                     }
 
+                    Console.Write("Press any key to return to the main menu...");
+
                     Console.ReadKey();
                 }
-                else if (userDecsion.ToString().ToLower() == "q")
+                else if (userDecision == "3")
+                {
+                    ByAuthorMenu();
+                }
+                else if (userDecision.ToLower() == "q")
                 {
                     quit = true;
                 }
@@ -64,12 +64,110 @@ namespace QuoteGeneratorCLI
             
         }
 
-        private void DisplayQuoteAndAuthor(Quote quote)
+        private void DisplayRandomQuoteAndAuthor()
         {
-            Console.WriteLine(quote.RandomQuote + "\n");
-            Console.WriteLine(quote.Author);
-            Console.WriteLine("-----------------------\n");
+            bool quit = false;
+
+            while (!quit)
+            {
+                Console.Clear();
+
+                int quotesIndex = rdm.Next(_listOfQuoteCLI.Quotes.Count);
+
+                Quote quote = _listOfQuoteCLI.Quotes[quotesIndex];
+
+                Console.WriteLine(quote.RandomQuote + "\n");
+                Console.WriteLine(quote.Author);
+                Console.WriteLine("\n-----------------------\n");
+                Console.Write("Press any key to display another random quote or press \"Q\" to return to the main menu...");
+
+                char userChoice = Console.ReadKey().KeyChar;
+
+                if(userChoice.ToString().ToLower() == "q")
+                {
+                    quit = true;
+                }
+            }
         }
         
+        private void ByAuthorMenu()
+        {
+            bool quit = false;
+
+            while (!quit)
+            {
+                
+                string selectedAuthor;
+                int userDecisionNum;
+
+                bool validChoice = false;
+
+                try
+                {
+                    while (!validChoice)
+                    {
+                        Console.Clear();
+
+                        Console.WriteLine("Authors:");
+
+                        for (int i = 0; i < _listOfQuoteCLI.Authors.Count; i++)
+                        {
+                            Console.WriteLine($"{i + 1}. {_listOfQuoteCLI.Authors[i]}");
+                        }
+
+                        Console.Write("\nSelect an author from above to display quotes or enter \"Q\" to return to the main menu: ");
+                        
+                        string userDecision = Console.ReadLine();
+
+                        if(userDecision.ToLower() == "q")
+                        {
+                            quit = true;
+                            break;
+                        }
+
+                        userDecisionNum = int.Parse(userDecision);
+
+                        selectedAuthor = _listOfQuoteCLI.Authors[userDecisionNum - 1];
+
+                        DisplayAuthorQuotes(selectedAuthor);
+
+                        validChoice = true;
+                    }
+                }
+                catch
+                {
+                    Console.Clear();
+                    Console.WriteLine("Please only enter valid whole numbers from the list of available authors");
+                    Console.WriteLine("Press any key to return to the author list...");
+                    Console.ReadKey();
+                }
+
+            }
+        }
+
+        private void DisplayAuthorQuotes(string selectedAuthor)
+        {
+            Console.Clear();
+
+            Console.WriteLine($"Quotes by {selectedAuthor}:\n");
+
+            foreach (Quote quote in _listOfQuoteCLI.Quotes)
+            {
+                if (quote.Author == selectedAuthor)
+                {
+                    Console.WriteLine(quote.RandomQuote + "\n\n---------------------------\n");
+                }
+            }
+
+            Console.Write("\nPress any key to return to the return to the author list menu...");
+            Console.ReadKey();
+        }
+
+        private void DisplayAuthorAndQuote(Quote quote)
+        {
+            Console.WriteLine(quote.RandomQuote + "\n");
+            Console.WriteLine(quote.Author + "\n");
+            Console.WriteLine("\n----------------------\n");
+        }
     }
 }

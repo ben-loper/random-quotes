@@ -60,7 +60,7 @@ God.
 
 Dealing with failure is easy: Work hard to improve. Success is also easy
 to handle: You've solved the wrong problem. Work hard to improve.
--- Alan J. Perlis (Epigrams in programmi ng)
+-- Alan J. Perlis (Epigrams in programming)
 
 Within a computer natural language is unnatural.
 -- Alan J. Perlis (Epigrams in programming)
@@ -288,7 +288,7 @@ Simplicity takes effort-- genius, even.
 -- Paul Graham
 
 Show, don't tell.
--- unknown
+-- Unknown
 
 In God I trust; I will not be afraid. What can mortal man do to me?
 -- David (Psalm 56:4)
@@ -392,11 +392,11 @@ to the end user.
 -- [A comment on a blog]
 
 Dont give users the opportunity to lock themselves.
--- unknown
+-- Unknown
 
 Any fool can make the simple complex, only a smart person can make the
 complex simple.
--- unknown
+-- Unknown
 
 To do something well you have to love it. So to the extent you can
 preserve hacking as something you love, you're likely to do it well. Try
@@ -420,7 +420,7 @@ don't have any immediate use for it, you probably never will.
 -- Paul Graham
 
 Only bad designers blame their failings on the users.
--- unknown
+-- Unknown
 
 Humans aren't rational -- they rationalize. And I don't just mean "some
 of them" or "other people". I'm talking about everyone. We have a "logic
@@ -448,7 +448,7 @@ they aren't saying what they mean.
 -- The culture code.
 
 When all you have is a hammer, everything looks like a nail.
--- unknown
+-- Unknown
 
 Good coders code, great reuse.
 -- http://www.catonmat.net
@@ -472,7 +472,7 @@ down. Be grateful and open to learn and grow.
 -- http://secretsofstudying.com/
 
 If there is a will, there is a way.
--- unknown
+-- Unknown
 
 Having large case statements in an object-oriented language is a sure
 sign your design is flawed.
@@ -855,7 +855,7 @@ Remember, always be yourself ... unless you suck!
 -- Joss Whedon
 
 All great things require great dedication.
--- Chuck Norris(?)
+-- Chuck Norris
 
 I'm always happy to trade performance for readability as long as the
 former isn't already scarce.
@@ -926,12 +926,12 @@ what the other one sucks at.
 
 Two people should stay together if together they are better people than
 they would be individually.
--- ?
+-- Unknown
 
 To the optimist, the glass is half full. To the pessimist, the glass is
 half empty. To the engineer, the glass is twice as big as it needs to
 be.
--- author unknown (quoted in `Robust Systems', Gerald Jay Suseman)
+-- Unknown
 
 It is practically impossible to teach good programming to students that
 have had a prior exposure to BASIC: as potential programmers they are
@@ -1282,7 +1282,7 @@ behavior.
 
 C++ is like teenage sex: Everybody is talking about it all the time,
 only few are really doing it.
--- unknown
+-- Unknown
 
 Functional programming is to algorithms as the ubiquitous little black
 dress is to women's fashion.
